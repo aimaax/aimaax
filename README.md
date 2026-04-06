@@ -26,3 +26,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Ansys](https://img.shields.io/badge/ansys-%23FFB71B.svg?style=for-the-badge&logo=ansys&logoColor=black)
 ![LTSpice](https://img.shields.io/badge/ltspice-%23900028.svg?style=for-the-badge&logo=ltspice&logoColor=white)
+
+# 
+
+### *Reach out*
+
+<p align="left">
+  <a href="mailto:maxandersson8@outlook.com"><img src="https://uxwing.com/wp-content/themes/uxwing/download/communication-chat-call/email-square-icon.svg" width="35" height="35" alt="Email"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/maxandersson314/"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" width="35" height="35" alt="LinkedIn"></a>&nbsp;
+  <a href="https://www.instagram.com/maaaxandeerssoon"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" width="35" height="35" alt="Instagram"></a>
+</p>
